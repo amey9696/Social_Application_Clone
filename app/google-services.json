@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888047251214",
+    "firebase_url": "https://mchat-b326f.firebaseio.com",
+    "project_id": "mchat-b326f",
+    "storage_bucket": "mchat-b326f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888047251214:android:1e4c241a1a61670d5ef15f",
+        "android_client_info": {
+          "package_name": "com.amey.mchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888047251214-j4gvdr971f6lm3dr8sm428pivv2ir3j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSnvLFqN9lINOfzZk27S4MZDbnOGkXNzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888047251214-j4gvdr971f6lm3dr8sm428pivv2ir3j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
